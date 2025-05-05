@@ -4,7 +4,7 @@
 sudo docker compose up -d
 ```
 
-#  2. Publish an example task the the cluster 
+#  2. Publish an example task to the cluster 
 
 
 
